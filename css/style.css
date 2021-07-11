@@ -1,0 +1,31 @@
+body {
+    color: black;
+    
+  }
+  .jumbotron {
+    background-image: url("../images/bacteria.jpeg");
+    border-radius: 60px;
+    background-size: 100% 100%;
+    text-align: center;
+    text-shadow: #fff 1px 0 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+  }
+  .panel {
+    border-radius: 8px;
+    background-color:rgb(245, 244, 235);
+    color: rgb(45, 46, 46);
+    font-weight: bolder;
+    text-align: left;
+    text-indent: 20px
+    
+  }
+  .well {
+    border-radius: 8px;
+    background-color: darkslateblue;
+    color: rgb(245, 244, 235);
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: oblique;
+    text-align: center
+  }
